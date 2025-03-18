@@ -1,0 +1,14 @@
+{"time":"2025-02-28T16:09:48.024882936+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/zhangshunsheng/generation_watermark/TabWak-4E65/wandb/offline-run-20250228_160947-ta199dwl/logs/debug-core.log"}
+{"time":"2025-02-28T16:09:48.135000137+08:00","level":"INFO","msg":"created new stream","id":"ta199dwl"}
+{"time":"2025-02-28T16:09:48.135066065+08:00","level":"INFO","msg":"stream: started","id":"ta199dwl"}
+{"time":"2025-02-28T16:09:48.135145352+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ta199dwl"}
+{"time":"2025-02-28T16:09:48.135243968+08:00","level":"INFO","msg":"handler: started","stream_id":"ta199dwl"}
+{"time":"2025-02-28T16:09:48.135336043+08:00","level":"INFO","msg":"sender: started","stream_id":"ta199dwl"}
+{"time":"2025-02-28T16:09:48.141676344+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T16:09:50.872848164+08:00","level":"INFO","msg":"stream: closing","id":"ta199dwl"}
+{"time":"2025-02-28T16:09:50.87288908+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T16:09:50.873585448+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T16:09:50.873717385+08:00","level":"INFO","msg":"handler: closed","stream_id":"ta199dwl"}
+{"time":"2025-02-28T16:09:50.873735899+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ta199dwl"}
+{"time":"2025-02-28T16:09:50.87375+08:00","level":"INFO","msg":"sender: closed","stream_id":"ta199dwl"}
+{"time":"2025-02-28T16:09:50.873930888+08:00","level":"INFO","msg":"stream: closed","id":"ta199dwl"}

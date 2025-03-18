@@ -1,0 +1,14 @@
+{"time":"2025-02-28T16:08:31.29077347+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/zhangshunsheng/generation_watermark/TabWak-4E65/wandb/offline-run-20250228_160831-mt60dssp/logs/debug-core.log"}
+{"time":"2025-02-28T16:08:31.401456062+08:00","level":"INFO","msg":"created new stream","id":"mt60dssp"}
+{"time":"2025-02-28T16:08:31.40150055+08:00","level":"INFO","msg":"stream: started","id":"mt60dssp"}
+{"time":"2025-02-28T16:08:31.401582531+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"mt60dssp"}
+{"time":"2025-02-28T16:08:31.401649709+08:00","level":"INFO","msg":"handler: started","stream_id":"mt60dssp"}
+{"time":"2025-02-28T16:08:31.401767056+08:00","level":"INFO","msg":"sender: started","stream_id":"mt60dssp"}
+{"time":"2025-02-28T16:08:31.409652769+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T16:08:32.372909253+08:00","level":"INFO","msg":"stream: closing","id":"mt60dssp"}
+{"time":"2025-02-28T16:08:32.37296459+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T16:08:32.37366039+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T16:08:32.373809817+08:00","level":"INFO","msg":"handler: closed","stream_id":"mt60dssp"}
+{"time":"2025-02-28T16:08:32.373851477+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mt60dssp"}
+{"time":"2025-02-28T16:08:32.373910056+08:00","level":"INFO","msg":"sender: closed","stream_id":"mt60dssp"}
+{"time":"2025-02-28T16:08:32.373945854+08:00","level":"INFO","msg":"stream: closed","id":"mt60dssp"}

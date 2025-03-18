@@ -1,0 +1,14 @@
+{"time":"2025-02-28T15:59:00.216092456+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/zhangshunsheng/generation_watermark/TabWak-4E65/wandb/offline-run-20250228_155859-xve8u5hx/logs/debug-core.log"}
+{"time":"2025-02-28T15:59:00.326749399+08:00","level":"INFO","msg":"created new stream","id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.326825523+08:00","level":"INFO","msg":"stream: started","id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.326909418+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.32695021+08:00","level":"INFO","msg":"handler: started","stream_id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.327041128+08:00","level":"INFO","msg":"sender: started","stream_id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.33485998+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T15:59:00.470522213+08:00","level":"INFO","msg":"stream: closing","id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.470571125+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T15:59:00.471253809+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T15:59:00.471370658+08:00","level":"INFO","msg":"handler: closed","stream_id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.471387342+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.47141536+08:00","level":"INFO","msg":"sender: closed","stream_id":"xve8u5hx"}
+{"time":"2025-02-28T15:59:00.47149036+08:00","level":"INFO","msg":"stream: closed","id":"xve8u5hx"}

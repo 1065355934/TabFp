@@ -1,0 +1,11 @@
+age,workclass,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,predclass
+35.0,Self-emp-inc,12th,9.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,48.0,Holand-Netherlands,<=50K
+35.0,Self-emp-inc,12th,13.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,50.0,Holand-Netherlands,>50K
+33.0,Self-emp-inc,Assoc-voc,9.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,45.0,Holand-Netherlands,>50K
+40.0,Federal-gov,12th,10.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Female,2354,1258,50.0,Portugal,>50K
+27.0,Self-emp-inc,12th,13.0,Married-spouse-absent,Other-service,Husband,Asian-Pac-Islander,Female,2354,2352,30.488987,Portugal,>50K
+38.0,Self-emp-inc,Assoc-voc,13.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Female,2354,2352,50.0,Holand-Netherlands,>50K
+36.0,Self-emp-inc,12th,11.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,50.0,Holand-Netherlands,>50K
+35.0,Self-emp-inc,12th,10.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,50.0,Holand-Netherlands,>50K
+37.0,Self-emp-inc,Assoc-voc,10.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,50.0,Holand-Netherlands,>50K
+33.0,Federal-gov,Assoc-voc,10.0,Married-spouse-absent,Armed-Forces,Husband,White,Male,2354,1721,40.0,Haiti,<=50K

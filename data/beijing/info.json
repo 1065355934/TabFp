@@ -1,0 +1,201 @@
+{
+    "raw_data_path": "data/beijing/beijing_raw.csv",
+    "data_path": "data/beijing/beijing.csv",
+    "file_type": "csv",
+    "header": 0,
+    "task_type": "regression",
+    "column_names": [
+        "year",
+        "month",
+        "day",
+        "hour",
+        "pm2.5",
+        "DEWP",
+        "TEMP",
+        "PRES",
+        "cbwd",
+        "Iws",
+        "Is",
+        "Ir"
+    ],
+    "num_col_idx": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10
+    ],
+    "cat_col_idx": [
+        8
+    ],
+    "target_col_idx": [
+        11
+    ],
+    "test_path": null,
+    "column_info": {
+        "0": {
+            "type": "numerical",
+            "max": 2014.0,
+            "min": 2010.0
+        },
+        "1": {
+            "type": "numerical",
+            "max": 12.0,
+            "min": 1.0
+        },
+        "2": {
+            "type": "numerical",
+            "max": 31.0,
+            "min": 1.0
+        },
+        "3": {
+            "type": "numerical",
+            "max": 23.0,
+            "min": 0.0
+        },
+        "4": {
+            "type": "numerical",
+            "max": 994.0,
+            "min": 0.0
+        },
+        "5": {
+            "type": "numerical",
+            "max": 28.0,
+            "min": -40.0
+        },
+        "6": {
+            "type": "numerical",
+            "max": 42.0,
+            "min": -19.0
+        },
+        "7": {
+            "type": "numerical",
+            "max": 1046.0,
+            "min": 991.0
+        },
+        "9": {
+            "type": "numerical",
+            "max": 565.49,
+            "min": 0.45
+        },
+        "10": {
+            "type": "numerical",
+            "max": 27.0,
+            "min": 0.0
+        },
+        "8": {
+            "type": "categorical",
+            "categorizes": [
+                "cv",
+                "NW",
+                "NE",
+                "SE"
+            ]
+        },
+        "11": {
+            "type": "numerical",
+            "max": 36.0,
+            "min": 0.0
+        }
+    },
+    "train_num": 37581,
+    "test_num": 4176,
+    "idx_mapping": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 10,
+        "9": 8,
+        "10": 9,
+        "11": 11
+    },
+    "inverse_idx_mapping": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "10": 8,
+        "8": 9,
+        "9": 10,
+        "11": 11
+    },
+    "idx_name_mapping": {
+        "0": "year",
+        "1": "month",
+        "2": "day",
+        "3": "hour",
+        "4": "pm2.5",
+        "5": "DEWP",
+        "6": "TEMP",
+        "7": "PRES",
+        "8": "cbwd",
+        "9": "Iws",
+        "10": "Is",
+        "11": "Ir"
+    },
+    "metadata": {
+        "columns": {
+            "0": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "1": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "2": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "3": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "4": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "5": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "6": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "7": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "9": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "10": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "8": {
+                "sdtype": "categorical"
+            },
+            "11": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            }
+        }
+    }
+}

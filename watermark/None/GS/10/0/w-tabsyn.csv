@@ -1,0 +1,11 @@
+age,workclass,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,predclass
+36.0,Self-emp-inc,12th,9.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,50.0,Yugoslavia,>50K
+34.0,Self-emp-inc,12th,10.0,Married-spouse-absent,Farming-fishing,Husband,White,Female,27828,1668,30.0,Iran,>50K
+41.0,Self-emp-inc,Some-college,13.0,Separated,Priv-house-serv,Husband,White,Female,27828,625,15.6195345,Columbia,<=50K
+43.0,Self-emp-inc,12th,13.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Female,27828,625,40.0,Yugoslavia,>50K
+25.0,Self-emp-inc,Some-college,13.0,Separated,Armed-Forces,Own-child,White,Female,6360,1668,40.0,Columbia,<=50K
+35.0,Self-emp-inc,Assoc-voc,9.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Male,2354,2352,50.0,Yugoslavia,>50K
+35.0,Self-emp-inc,Assoc-voc,9.0,Married-spouse-absent,Farming-fishing,Husband,White,Male,27828,625,44.77091,Columbia,<=50K
+34.0,Self-emp-inc,12th,9.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Female,2354,2352,50.0,Yugoslavia,>50K
+61.0,Self-emp-inc,12th,12.0,Separated,Armed-Forces,Husband,White,Female,6360,625,40.0,Iran,<=50K
+40.0,Self-emp-inc,Assoc-voc,12.0,Married-spouse-absent,Handlers-cleaners,Husband,White,Female,2354,2352,50.0,Holand-Netherlands,>50K

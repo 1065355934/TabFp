@@ -1,0 +1,14 @@
+{"time":"2025-02-28T15:53:11.021116897+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/zhangshunsheng/generation_watermark/TabWak-4E65/wandb/offline-run-20250228_155310-y613enki/logs/debug-core.log"}
+{"time":"2025-02-28T15:53:11.132141603+08:00","level":"INFO","msg":"created new stream","id":"y613enki"}
+{"time":"2025-02-28T15:53:11.13219305+08:00","level":"INFO","msg":"stream: started","id":"y613enki"}
+{"time":"2025-02-28T15:53:11.132273731+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"y613enki"}
+{"time":"2025-02-28T15:53:11.132307395+08:00","level":"INFO","msg":"sender: started","stream_id":"y613enki"}
+{"time":"2025-02-28T15:53:11.132320612+08:00","level":"INFO","msg":"handler: started","stream_id":"y613enki"}
+{"time":"2025-02-28T15:53:11.138795261+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T15:53:22.243133297+08:00","level":"INFO","msg":"stream: closing","id":"y613enki"}
+{"time":"2025-02-28T15:53:22.243159858+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T15:53:22.244110913+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T15:53:22.244227624+08:00","level":"INFO","msg":"handler: closed","stream_id":"y613enki"}
+{"time":"2025-02-28T15:53:22.244244573+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"y613enki"}
+{"time":"2025-02-28T15:53:22.244274944+08:00","level":"INFO","msg":"sender: closed","stream_id":"y613enki"}
+{"time":"2025-02-28T15:53:22.244362817+08:00","level":"INFO","msg":"stream: closed","id":"y613enki"}

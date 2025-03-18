@@ -1,0 +1,14 @@
+{"time":"2025-02-27T17:44:22.345338773+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/zhangshunsheng/generation_watermark/TabWak-4E65/wandb/offline-run-20250227_174422-900gv5gs/logs/debug-core.log"}
+{"time":"2025-02-27T17:44:22.456638468+08:00","level":"INFO","msg":"created new stream","id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.456691621+08:00","level":"INFO","msg":"stream: started","id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.456781728+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.45685262+08:00","level":"INFO","msg":"handler: started","stream_id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.45695117+08:00","level":"INFO","msg":"sender: started","stream_id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.465197379+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T17:44:22.60267214+08:00","level":"INFO","msg":"stream: closing","id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.60271626+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T17:44:22.603648738+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T17:44:22.60378382+08:00","level":"INFO","msg":"handler: closed","stream_id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.603804658+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.603833663+08:00","level":"INFO","msg":"sender: closed","stream_id":"900gv5gs"}
+{"time":"2025-02-27T17:44:22.603892521+08:00","level":"INFO","msg":"stream: closed","id":"900gv5gs"}
